@@ -1,0 +1,2 @@
+cum_mediane_pkg est un package Python avec extension C++ via pybind11
+qui calcule la médiane cumulative d'un tableau NumPy 1D.
