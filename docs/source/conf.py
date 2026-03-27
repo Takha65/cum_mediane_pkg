@@ -7,6 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Cum_mediane_pkg'
+html_title = "Cum Mediane documentation"
 copyright = '2026, Mamadou Mountaha M. Ndoye'
 author = 'Mamadou Mountaha M. Ndoye'
 release = '0.1.0'
